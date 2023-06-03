@@ -1,0 +1,13 @@
+*,
+*::before,
+*::after {
+    --azul_acizentado: hsl(210, 10%, 33%);
+    --azul_claro: hsl(201, 11%, 66%);
+    --ciano: hsl(171, 66%, 44%);
+    --azul: hsl(233, 100%, 69%);
+    --azul_corpo: hsl(228, 45%, 44%);   
+}
+
+body {
+    
+}
