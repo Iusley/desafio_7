@@ -279,3 +279,139 @@ footer {
     width: 30px;
 }
 
+@media only screen and (max-width: 320px) {
+    header {
+      padding: 3rem 0 4rem 0;
+    }
+  
+    .imagem_logo {
+      width: 80px;
+      padding-bottom: 2rem;
+    }
+  
+    .cabeçalho_titulo {
+      font-size: 4rem;
+      width: 80vw;
+    }
+  
+    .cabeçalho_texto {
+      font-size: 1.2rem;
+      width: 70vw;
+    }
+  
+    .conteudo_primeira-tela {
+      padding: 2rem;
+    }
+  
+    .conteudo_titulo {
+      font-size: 2rem;
+      padding-bottom: 2rem;
+    }
+  
+    .conteudo_texto {
+      font-size: 1rem;
+      width: 80vw;
+      padding-bottom: 2rem;
+    }
+  
+    .conteudo_colunas {
+      flex-direction: column;
+      gap: 4rem;
+      padding-bottom: 4rem;
+    }
+  
+    .segunda-coluna_subtitulo {
+      font-size: 1.5rem;
+    }
+  
+    .segunda-coluna_texto {
+      font-size: 1rem;
+      padding-bottom: 2rem;
+    }
+  
+    .conteudo_segunda-tela {
+      padding: 2rem;
+    }
+  
+    .conteudo_segunda-tela_titulo {
+      font-size: 2rem;
+      padding-bottom: 2rem;
+    }
+  
+    .conteudo_segunda-tela_texto {
+      font-size: 1rem;
+      padding-bottom: 4rem;
+    }
+  
+    .imagem_devices {
+      width: 80vw;
+    }
+  
+    .conteudo_terceira-tela {
+      padding: 2rem;
+    }
+  
+    .conteudo_terceira-tela_titulo {
+      font-size: 2rem;
+      padding-bottom: 2rem;
+    }
+  
+    .conteudo_terceira-tela_texto {
+      font-size: 1rem;
+      padding-bottom: 2rem;
+    }
+  
+    .funções_titulos {
+      font-size: 1rem;
+      padding-bottom: 0.5rem;
+    }
+  
+    .funções_texto {
+      font-size: 0.8rem;
+      width: 80vw;
+      padding-bottom: 2rem;
+    }
+  
+    .conteudo_terceira-tela_logos {
+      gap: 3rem;
+      padding: 4rem 0;
+    }
+  
+    .texto_final {
+      padding-bottom: 1rem;
+    }
+  
+    .botão_final {
+      padding-bottom: 4rem;
+    }
+  
+    footer {
+      flex-direction: column;
+      gap: 2rem;
+      padding: 2rem;
+    }
+  
+    .seção_footer {
+      flex-direction: column;
+      gap: 1rem;
+    }
+  
+    .div_imagem__logo_footer {
+      width: 8vw;
+    }
+  
+    .imagem_logo_footer {
+      width: 30px;
+    }
+  
+    .div_texto {
+      text-align: center;
+    }
+  
+    .lista_completa {
+      width: 90vw;
+      padding: 2rem;
+      font-size: 0.8rem;
+    }
+  }
+  
